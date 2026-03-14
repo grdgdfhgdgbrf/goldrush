@@ -27,7 +27,7 @@ from collections import defaultdict
 # ========== НАСТРОЙКИ ==========
 ADMIN_ID = 5356400377
 ADMIN_USERNAME = "@hjklgf1"
-BOT_TOKEN = "8200002291:AAEqj-rrypuFPmzEccUzctVrC8z6vpyvc14"
+BOT_TOKEN = "8269087933:AAE-lRMxUUdZJ3R085BUlbji6G0Rjoq7Hhg"
 BOT_USERNAME = "@The_Gold_Rushbot"
 GAME_NAME = "⛏️ The Gold Rush "
 MINING_BASE_TIME = 240
